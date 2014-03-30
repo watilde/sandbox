@@ -1,0 +1,7 @@
+{
+  "name": "songjs",
+  "main": "index.js",
+  "dependencies": {
+    "baudio": "^1.2.0"
+  }
+}
